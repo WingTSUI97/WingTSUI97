@@ -1,4 +1,4 @@
-## Hi, I;m WING 👋
+## Hi, I'm WING 👋
 
 # INTRODUCTION
 Recent Electronic Engineering graduate from HKUST with hands-on experience in front-end and back-end development, and data analytics. Proficient in Python, C++ and JavaScript, with exposure to cloud services (AWS) and AI/ML applications. Passionate about developing scalable applications, optimizing data workflows, and contributing to business intelligence solutions. Eager to apply technical expertise and problem-solving skills to innovative projects and solutions.
